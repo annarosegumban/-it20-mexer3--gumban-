@@ -14,7 +14,7 @@ class Ticket {
     }
 }
 
-public class Gumban {
+public class TicketQueue {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
